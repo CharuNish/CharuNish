@@ -19,7 +19,6 @@ Hi there! I'm Charuka, a passionate final-year **Electronic and Telecommunicatio
 - When I’m not coding, I’m exploring **TikTok trends**, experimenting with content creation, or diving into self-care routines. 
 
 ### 📫 Let's Connect!
-- **LinkedIn**: [linkedin.com/in/charuka-bandara](#)
 - **Email**: nishalakb@gmail.com 
 
 🚀 Let’s collaborate and build something amazing together!
