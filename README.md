@@ -20,7 +20,6 @@ Hi there! I'm Charuka, a passionate final-year **Electronic and Telecommunicatio
 
 ### 📫 Let's Connect!
 - **LinkedIn**: [linkedin.com/in/charuka-bandara](#)
-- **Email**: charuka.bandara@example.com
-- **Website/Portfolio**: [charukabandara.dev](#)
+- **Email**: nishalakb@gmail.com 
 
 🚀 Let’s collaborate and build something amazing together!
