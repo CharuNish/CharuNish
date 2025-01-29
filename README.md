@@ -8,8 +8,8 @@ Hi there! I'm Charuka, a passionate final-year **Electronic and Telecommunicatio
 - **Programming & Software Development**: Writing efficient, scalable code in Python, C++, and more.
 
 ### 🌱 Currently Learning:
-- Fine-tuning **deep learning models** (ResNet, FasterWhisper) for performance optimization.
-- Improving robotic designs and real-time conversational AI pipelines.
+- Fine-tuning **deep learning models** for performance optimization.
+- Improving robotic designs and face recognition AI pipelines.
 
 ### 🌟 Projects I'm Proud Of:
 - **Face Recognition System**: Built a robust model using DeepFace with multithreading for faster processing.
